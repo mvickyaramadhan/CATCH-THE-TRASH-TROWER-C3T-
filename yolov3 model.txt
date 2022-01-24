@@ -1,1 +1,3 @@
+Model Yolo yang digunakan saya letak ke GD karena ukuran yang lumayan besar.
+
 https://drive.google.com/drive/folders/10aIuBt3bq_OmvPaVUN4mwzqZOtmy1c_d?usp=sharing
